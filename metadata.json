@@ -1,0 +1,8 @@
+{
+  "name": "Beyond3 · CircuitIQ",
+  "description": "Monitor Smarter. Troubleshoot Faster. Diagnostic and circuit monitoring hardware concept by Beyond3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
